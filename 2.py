@@ -1,3 +1,5 @@
+# ALDS1_1_D:   Maximum Profit
+
 nums = [] # あとに行くほど未来
 length = int(input()) # 時系列データ(配列)の長さを受け付ける
 for _ in range(length):
